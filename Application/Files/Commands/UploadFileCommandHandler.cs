@@ -1,5 +1,5 @@
 ﻿using Application.Abstractions.Messaging;
-using Shared;
+using Domain;
 
 namespace Application.Files.Commands;
 
