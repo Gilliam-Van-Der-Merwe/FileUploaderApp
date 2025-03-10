@@ -13,7 +13,7 @@ builder
             .AsImplementedInterfaces()
             .WithScopedLifetime());
 
-builder.Services.AddMediatR(Application.AssemblyReference.Assembly);
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Application.AssemblyReference.Assembly));
 
 builder
     .Services

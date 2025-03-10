@@ -1,10 +1,3 @@
-C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.csproj.AssemblyReference.cache
-C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.AssemblyInfoInputs.cache
-C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.AssemblyInfo.cs
-C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.csproj.CoreCompileInputs.cache
-C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.sourcelink.json
 C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\bin\Debug\net9.0\appsettings.json
 C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\bin\Debug\net9.0\FileUploadingApplication.staticwebassets.endpoints.json
@@ -41,6 +34,14 @@ C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\bin\Debug\n
 C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\bin\Debug\net9.0\Persistence.pdb
 C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\bin\Debug\net9.0\Presentation.pdb
 C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\bin\Debug\net9.0\Domain.pdb
+C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.csproj.AssemblyReference.cache
+C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.AssemblyInfoInputs.cache
+C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.AssemblyInfo.cs
+C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.csproj.CoreCompileInputs.cache
+C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\FileUploadingApplication.sourcelink.json
 C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\scopedcss\bundle\FileUploadingApplication.styles.css
 C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\gilli\source\repos\FileUploaderApp\FileUploadingApplication\obj\Debug\net9.0\staticwebassets.development.json
