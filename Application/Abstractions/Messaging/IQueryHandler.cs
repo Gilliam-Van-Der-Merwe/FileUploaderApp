@@ -1,4 +1,4 @@
-﻿using Shared;
+﻿using Domain.Common;
 
 namespace Application.Abstractions.Messaging;
 

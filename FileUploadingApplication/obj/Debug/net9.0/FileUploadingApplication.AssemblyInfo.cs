@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("dd7b1fe2-7c66-4dc6-979a-3f7dfe5c5492")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileUploadingApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6db36f2e9865e33b0fc18ba0ce1f46eb95ab5330")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileUploadingApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileUploadingApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
