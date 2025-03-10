@@ -1994,11 +1994,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gilli\\source\\repos\\FileUploaderApp\\FileUploadingApplication\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\gilli\\source\\repos\\FileUploaderApp\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\gilli\\source\\repos\\FileUploaderApp\\FileUploadingApplication\\WebApp.csproj",
+      "projectPath": "C:\\Users\\gilli\\source\\repos\\FileUploaderApp\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\gilli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gilli\\source\\repos\\FileUploaderApp\\FileUploadingApplication\\obj\\",
+      "outputPath": "C:\\Users\\gilli\\source\\repos\\FileUploaderApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
