@@ -1,0 +1,1 @@
+Small C# .Net Web App for uploading and mutating text files as well as retrieving the mutated text files. The project makes use of multiple .Net REST APIs with swagger-enabled endpoints. The project explores the CQRS pattern and utilises MediatR.
