@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{3215F6CF-A442-1C21-6AD3-94ED23F4EBA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{5AED064F-2A6E-4801-8CC4-CC6212EA8A69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{3215F6CF-A442-1C21-6AD3-94ED23F4EBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3215F6CF-A442-1C21-6AD3-94ED23F4EBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3215F6CF-A442-1C21-6AD3-94ED23F4EBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AED064F-2A6E-4801-8CC4-CC6212EA8A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AED064F-2A6E-4801-8CC4-CC6212EA8A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AED064F-2A6E-4801-8CC4-CC6212EA8A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AED064F-2A6E-4801-8CC4-CC6212EA8A69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{E528BBC3-1C26-8C35-F682-23718816ADCD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{26BB4B99-E4DB-8D6F-9A99-39E9DFD5E68A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{3215F6CF-A442-1C21-6AD3-94ED23F4EBA5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{5AED064F-2A6E-4801-8CC4-CC6212EA8A69} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {599FEE9A-56DA-4A2F-9393-B2A00F09CF31}

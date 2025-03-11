@@ -94,3 +94,5 @@ C:\Users\gilli\source\repos\FileUploaderApp\WebApp\obj\Debug\net9.0\refint\WebAp
 C:\Users\gilli\source\repos\FileUploaderApp\WebApp\obj\Debug\net9.0\WebApp.pdb
 C:\Users\gilli\source\repos\FileUploaderApp\WebApp\obj\Debug\net9.0\WebApp.genruntimeconfig.cache
 C:\Users\gilli\source\repos\FileUploaderApp\WebApp\obj\Debug\net9.0\ref\WebApp.dll
+C:\Users\gilli\source\repos\FileUploaderApp\WebApp\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\gilli\source\repos\FileUploaderApp\WebApp\bin\Debug\net9.0\Infrastructure.pdb
